@@ -1,6 +1,6 @@
 //list all shoppers
 import React from 'react'
-import ListItems from '../frontendproj/src/components/listItems';
+import ListItems from '../components/listItems';
 
 const shoppers = () =>{
     return (
